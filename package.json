@@ -1,0 +1,24 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/03-03-2001/library-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/03-03-2001/library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03-03-2001/library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "Rihit Kamble",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "nodemon": "^3.1.14"
+  }
+}
